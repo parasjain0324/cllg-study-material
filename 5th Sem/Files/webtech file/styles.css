@@ -1,0 +1,9 @@
+body { align:"center";
+    background-image:url("tt.jpg"); background-size:100% 100%;
+    } 
+    h1 {
+    color: red;
+    }
+    form{
+    color: yellow;
+    }
